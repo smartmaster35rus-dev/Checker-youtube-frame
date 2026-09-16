@@ -1,23 +1,55 @@
-![picture](picture.png)
+# YouTube Embed Checker
 
-Hi there! Here's an example of a `readme.md` file description for your GitHub repository:
+**Utility to validate YouTube video embed availability**
 
-# Video Embed Checker
+[![Platinum](https://img.shields.io/badge/Style-Platinum-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
-This is a simple Python checker that verifies the validity of video embeds on a website using frames.
+<p align="center">
 
-## Usage
+[рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
-1. Add the list of website pages you want to check to the `links.txt` file.
-2. Run the `checker.exe` script.
-3. The checker will verify each video link. If the video is working, it will display "Working". If the link is invalid, the video has been removed, or for any other reason the link is not valid, it will display "Needs Replacement".
+</p>
 
-## Logging
+---
 
-The checker also includes a logging feature that allows you to save the verification results to a file for further analysis.
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
 
-## License
+**YouTube Embed Checker** — утилита проверки доступности встраивания YouTube-роликов (frame/embed validation).
 
-This repository and the development are licensed under the license you can find in the `LICENSE` file. The author of this project and repository is [yasaxil](https://github.com/yasaxil).
+## рџ‡¬рџ‡§ About
 
-Feel free to replace the author's GitHub profile link with your own if you're not [yasaxil]. Good luck with your repository!
+YouTube link / embed checker utility for content validation.
+
+---
+
+## вњЁ Key features
+
+| Feature | Description |
+|---------|-------------|
+| ▶️ **YouTube check** | Embed availability |
+| 🔗 **URL batch** | Multiple links |
+| 📋 **Report** | Pass/fail output |
+
+---
+
+## рџ“‹ Requirements
+
+- Network access
+- YouTube URLs to test
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
