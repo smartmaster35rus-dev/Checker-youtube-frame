@@ -7,23 +7,23 @@
 
 <p align="center">
 
-[рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **YouTube Embed Checker** — утилита проверки доступности встраивания YouTube-роликов (frame/embed validation).
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 YouTube link / embed checker utility for content validation.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -33,16 +33,16 @@ YouTube link / embed checker utility for content validation.
 
 ---
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - Network access
 - YouTube URLs to test
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -50,6 +50,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
